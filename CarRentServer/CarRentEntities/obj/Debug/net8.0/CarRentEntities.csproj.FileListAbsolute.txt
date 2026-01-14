@@ -1,0 +1,11 @@
+F:\CarRentServer\CarRentEntities\bin\Debug\net8.0\CarRentEntities.deps.json
+F:\CarRentServer\CarRentEntities\bin\Debug\net8.0\CarRentEntities.dll
+F:\CarRentServer\CarRentEntities\bin\Debug\net8.0\CarRentEntities.pdb
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\CarRentEntities.GeneratedMSBuildEditorConfig.editorconfig
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\CarRentEntities.AssemblyInfoInputs.cache
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\CarRentEntities.AssemblyInfo.cs
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\CarRentEntities.csproj.CoreCompileInputs.cache
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\CarRentEntities.dll
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\refint\CarRentEntities.dll
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\CarRentEntities.pdb
+F:\CarRentServer\CarRentEntities\obj\Debug\net8.0\ref\CarRentEntities.dll

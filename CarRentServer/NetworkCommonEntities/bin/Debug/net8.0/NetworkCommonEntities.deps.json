@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetworkCommonEntities/1.0.0": {
+        "runtime": {
+          "NetworkCommonEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkCommonEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

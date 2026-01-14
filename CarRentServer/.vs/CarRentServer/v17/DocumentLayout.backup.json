@@ -1,0 +1,922 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CarRentServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\host\\servercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\host\\servercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\host\\connectedclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\host\\connectedclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\host\\serversender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\host\\serversender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\host\\serverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\host\\serverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F3AFA-6099-4304-8FD9-394690B47B03}|NetworkCommonEntities\\NetworkCommonEntities.csproj|f:\\carrentserver\\networkcommonentities\\entities\\bytepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F3AFA-6099-4304-8FD9-394690B47B03}|NetworkCommonEntities\\NetworkCommonEntities.csproj|solutionrelative:networkcommonentities\\entities\\bytepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\implementation\\writter\\reviewwritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\implementation\\writter\\reviewwritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\implementation\\writter\\rentwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\implementation\\writter\\rentwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\implementation\\writter\\carwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\implementation\\writter\\carwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\implementation\\reviewrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\implementation\\reviewrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\controller\\controllerimplementation\\reviewcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\controller\\controllerimplementation\\reviewcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\carreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\carreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\controller\\controllerimplementation\\carcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\controller\\controllerimplementation\\carcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\controller\\icarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\controller\\icarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\controller\\controllerimplementation\\rentcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\controller\\controllerimplementation\\rentcontrollerimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\controller\\irentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\controller\\irentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\irentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\irentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\implementation\\rentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\implementation\\rentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\implementation\\reader\\rentreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\implementation\\reader\\rentreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\filterjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\filterjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F3AFA-6099-4304-8FD9-394690B47B03}|NetworkCommonEntities\\NetworkCommonEntities.csproj|f:\\carrentserver\\networkcommonentities\\entities\\networkhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F3AFA-6099-4304-8FD9-394690B47B03}|NetworkCommonEntities\\NetworkCommonEntities.csproj|solutionrelative:networkcommonentities\\entities\\networkhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\implementation\\reader\\carreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\implementation\\reader\\carreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A75CDC4-9B46-4C80-A5E0-2EBA66229505}|Test\\Test.csproj|f:\\carrentserver\\test\\controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A75CDC4-9B46-4C80-A5E0-2EBA66229505}|Test\\Test.csproj|solutionrelative:test\\controllertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A75CDC4-9B46-4C80-A5E0-2EBA66229505}|Test\\Test.csproj|f:\\carrentserver\\test\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A75CDC4-9B46-4C80-A5E0-2EBA66229505}|Test\\Test.csproj|solutionrelative:test\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\implementation\\carrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\implementation\\carrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\implementation\\reader\\manufacturerreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\implementation\\reader\\manufacturerreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\implementation\\reader\\carbodyreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\implementation\\reader\\carbodyreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\collections\\carmanufacturerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\collections\\carmanufacturerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\reader\\icarbodyreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\reader\\icarbodyreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\reader\\imanufacturerreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\reader\\imanufacturerreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521C99E2-23EB-4310-9F07-F13815ADB541}|CarRentServer\\CarRentServer.csproj|f:\\carrentserver\\carrentserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521C99E2-23EB-4310-9F07-F13815ADB541}|CarRentServer\\CarRentServer.csproj|solutionrelative:carrentserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\collections\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\collections\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\collections\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\collections\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\collections\\rentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\collections\\rentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\collections\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\collections\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\collections\\carbodylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\collections\\carbodylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\imanufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\imanufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\implementation\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\implementation\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\repository\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\repository\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\exception\\carisbuisyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\exception\\carisbuisyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\singletons\\manufacturerfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\singletons\\manufacturerfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\singletons\\carbodyfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\singletons\\carbodyfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\singletons\\carfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\singletons\\carfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\singletons\\commonsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\singletons\\commonsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\singletons\\rentfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\singletons\\rentfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\singletons\\reviewfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\singletons\\reviewfilesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\reader\\ijsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\reader\\ijsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\reader\\icarreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\reader\\icarreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\json\\reader\\irentreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\json\\reader\\irentreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\commonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\commonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|f:\\carrentserver\\carrententities\\entities\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54CE48-FFD0-4A85-AF77-D8AB4EABBC35}|CarRentEntities\\CarRentEntities.csproj|solutionrelative:carrententities\\entities\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|f:\\carrentserver\\library\\networking\\controller\\icommoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAA95E2-FB98-4A37-99F2-C595E846B094}|Library\\Library.csproj|solutionrelative:library\\networking\\controller\\icommoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5F3AFA-6099-4304-8FD9-394690B47B03}|NetworkCommonEntities\\NetworkCommonEntities.csproj|f:\\carrentserver\\networkcommonentities\\entities\\packageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5F3AFA-6099-4304-8FD9-394690B47B03}|NetworkCommonEntities\\NetworkCommonEntities.csproj|solutionrelative:networkcommonentities\\entities\\packageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 54,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LogicTests.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Test\\LogicTests.cs",
+              "RelativeDocumentMoniker": "Test\\LogicTests.cs",
+              "ToolTip": "F:\\CarRentServer\\Test\\LogicTests.cs",
+              "RelativeToolTip": "Test\\LogicTests.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA9wBIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:37:41.934Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PackageException.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\NetworkCommonEntities\\Entities\\PackageException.cs",
+              "RelativeDocumentMoniker": "NetworkCommonEntities\\Entities\\PackageException.cs",
+              "ToolTip": "F:\\CarRentServer\\NetworkCommonEntities\\Entities\\PackageException.cs",
+              "RelativeToolTip": "NetworkCommonEntities\\Entities\\PackageException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:42:54.436Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CarManufacturerList.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\CarManufacturerList.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Collections\\CarManufacturerList.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\CarManufacturerList.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Collections\\CarManufacturerList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:57:14.344Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentWriter.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Implementation\\Writter\\RentWriter.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Implementation\\Writter\\RentWriter.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Implementation\\Writter\\RentWriter.cs",
+              "RelativeToolTip": "Library\\Json\\Implementation\\Writter\\RentWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:48:13.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewRepositoryImpl.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\Implementation\\ReviewRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\Implementation\\ReviewRepositoryImpl.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\Implementation\\ReviewRepositoryImpl.cs",
+              "RelativeToolTip": "Library\\Repository\\Implementation\\ReviewRepositoryImpl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:04:18.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewControllerImpl.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Controller\\ControllerImplementation\\ReviewControllerImpl.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Controller\\ControllerImplementation\\ReviewControllerImpl.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Controller\\ControllerImplementation\\ReviewControllerImpl.cs",
+              "RelativeToolTip": "Library\\Networking\\Controller\\ControllerImplementation\\ReviewControllerImpl.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:03:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRentRepository.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\IRentRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\IRentRepository.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\IRentRepository.cs",
+              "RelativeToolTip": "Library\\Repository\\IRentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:39:43.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RentControllerImpl.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Controller\\ControllerImplementation\\RentControllerImpl.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Controller\\ControllerImplementation\\RentControllerImpl.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Controller\\ControllerImplementation\\RentControllerImpl.cs",
+              "RelativeToolTip": "Library\\Networking\\Controller\\ControllerImplementation\\RentControllerImpl.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowM8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:39:24.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRentController.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Controller\\IRentController.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Controller\\IRentController.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Controller\\IRentController.cs",
+              "RelativeToolTip": "Library\\Networking\\Controller\\IRentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:31:51.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RentRepositoryImpl.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\Implementation\\RentRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\Implementation\\RentRepositoryImpl.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\Implementation\\RentRepositoryImpl.cs",
+              "RelativeToolTip": "Library\\Repository\\Implementation\\RentRepositoryImpl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:49:53.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NetworkHandler.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\NetworkCommonEntities\\Entities\\NetworkHandler.cs",
+              "RelativeDocumentMoniker": "NetworkCommonEntities\\Entities\\NetworkHandler.cs",
+              "ToolTip": "F:\\CarRentServer\\NetworkCommonEntities\\Entities\\NetworkHandler.cs",
+              "RelativeToolTip": "NetworkCommonEntities\\Entities\\NetworkHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:48:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Rent.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Rent.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Rent.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Rent.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:53:48.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentServer\\Program.cs",
+              "RelativeDocumentMoniker": "CarRentServer\\Program.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentServer\\Program.cs",
+              "RelativeToolTip": "CarRentServer\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T11:12:32.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarWriter.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Implementation\\Writter\\CarWriter.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Implementation\\Writter\\CarWriter.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Implementation\\Writter\\CarWriter.cs",
+              "RelativeToolTip": "Library\\Json\\Implementation\\Writter\\CarWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T11:02:33.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewWritter.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Implementation\\Writter\\ReviewWritter.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Implementation\\Writter\\ReviewWritter.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Implementation\\Writter\\ReviewWritter.cs",
+              "RelativeToolTip": "Library\\Json\\Implementation\\Writter\\ReviewWritter.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:59:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\UserList.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Collections\\UserList.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\UserList.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Collections\\UserList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:58:56.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReviewList.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\ReviewList.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Collections\\ReviewList.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\ReviewList.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Collections\\ReviewList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:58:54.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CarList.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\CarList.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Collections\\CarList.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\CarList.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Collections\\CarList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:58:44.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ManufacturerRepository.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\Implementation\\ManufacturerRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\Implementation\\ManufacturerRepository.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\Implementation\\ManufacturerRepository.cs",
+              "RelativeToolTip": "Library\\Repository\\Implementation\\ManufacturerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:02:56.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICommonRepository.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\ICommonRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\ICommonRepository.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\ICommonRepository.cs",
+              "RelativeToolTip": "Library\\Repository\\ICommonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T08:59:37.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IManufacturerRepository.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\IManufacturerRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\IManufacturerRepository.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\IManufacturerRepository.cs",
+              "RelativeToolTip": "Library\\Repository\\IManufacturerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T08:59:32.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ControllerTest.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Test\\ControllerTest.cs",
+              "RelativeDocumentMoniker": "Test\\ControllerTest.cs",
+              "ToolTip": "F:\\CarRentServer\\Test\\ControllerTest.cs",
+              "RelativeToolTip": "Test\\ControllerTest.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwIQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T08:08:28.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CarBodyReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\CarBodyReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Implementation\\Reader\\CarBodyReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\CarBodyReader.cs",
+              "RelativeToolTip": "Library\\Json\\Implementation\\Reader\\CarBodyReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:39:25.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CarIsBuisyException.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Exception\\CarIsBuisyException.cs",
+              "RelativeDocumentMoniker": "Library\\Exception\\CarIsBuisyException.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Exception\\CarIsBuisyException.cs",
+              "RelativeToolTip": "Library\\Exception\\CarIsBuisyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:31:03.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CarBodyFileSingleton.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Singletons\\CarBodyFileSingleton.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Singletons\\CarBodyFileSingleton.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Singletons\\CarBodyFileSingleton.cs",
+              "RelativeToolTip": "Library\\Json\\Singletons\\CarBodyFileSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:02:05.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CommonSingleton.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Singletons\\CommonSingleton.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Singletons\\CommonSingleton.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Singletons\\CommonSingleton.cs",
+              "RelativeToolTip": "Library\\Json\\Singletons\\CommonSingleton.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:45:28.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CarFileSingleton.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Singletons\\CarFileSingleton.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Singletons\\CarFileSingleton.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Singletons\\CarFileSingleton.cs",
+              "RelativeToolTip": "Library\\Json\\Singletons\\CarFileSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:45:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReviewFileSingleton.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Singletons\\ReviewFileSingleton.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Singletons\\ReviewFileSingleton.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Singletons\\ReviewFileSingleton.cs",
+              "RelativeToolTip": "Library\\Json\\Singletons\\ReviewFileSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:45:18.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RentFileSingleton.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Singletons\\RentFileSingleton.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Singletons\\RentFileSingleton.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Singletons\\RentFileSingleton.cs",
+              "RelativeToolTip": "Library\\Json\\Singletons\\RentFileSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:45:02.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ManufacturerFileSingleton.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Singletons\\ManufacturerFileSingleton.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Singletons\\ManufacturerFileSingleton.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Singletons\\ManufacturerFileSingleton.cs",
+              "RelativeToolTip": "Library\\Json\\Singletons\\ManufacturerFileSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:44:49.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RentReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\RentReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Implementation\\Reader\\RentReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\RentReader.cs",
+              "RelativeToolTip": "Library\\Json\\Implementation\\Reader\\RentReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:44:04.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManufacturerReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\ManufacturerReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Implementation\\Reader\\ManufacturerReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\ManufacturerReader.cs",
+              "RelativeToolTip": "Library\\Json\\Implementation\\Reader\\ManufacturerReader.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:42:10.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICarBodyReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Reader\\ICarBodyReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Reader\\ICarBodyReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Reader\\ICarBodyReader.cs",
+              "RelativeToolTip": "Library\\Json\\Reader\\ICarBodyReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:41:06.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IJsonReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Reader\\IJsonReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Reader\\IJsonReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Reader\\IJsonReader.cs",
+              "RelativeToolTip": "Library\\Json\\Reader\\IJsonReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:39:17.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRentReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Reader\\IRentReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Reader\\IRentReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Reader\\IRentReader.cs",
+              "RelativeToolTip": "Library\\Json\\Reader\\IRentReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:39:05.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IManufacturerReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Reader\\IManufacturerReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Reader\\IManufacturerReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Reader\\IManufacturerReader.cs",
+              "RelativeToolTip": "Library\\Json\\Reader\\IManufacturerReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:38:10.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\ICarRepository.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\ICarRepository.cs",
+              "RelativeToolTip": "Library\\Repository\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:34:29.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICarController.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Controller\\ICarController.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Controller\\ICarController.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Controller\\ICarController.cs",
+              "RelativeToolTip": "Library\\Networking\\Controller\\ICarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:33:51.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilterJson.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\FilterJson.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\FilterJson.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\FilterJson.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\FilterJson.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:33:19.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICarReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Reader\\ICarReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Reader\\ICarReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Reader\\ICarReader.cs",
+              "RelativeToolTip": "Library\\Json\\Reader\\ICarReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:31:32.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarReader.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\CarReader.cs",
+              "RelativeDocumentMoniker": "Library\\Json\\Implementation\\Reader\\CarReader.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Json\\Implementation\\Reader\\CarReader.cs",
+              "RelativeToolTip": "Library\\Json\\Implementation\\Reader\\CarReader.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA5wCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:31:11.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CarBodyList.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\CarBodyList.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Collections\\CarBodyList.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\CarBodyList.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Collections\\CarBodyList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:25:15.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RentList.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\RentList.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Collections\\RentList.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Collections\\RentList.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Collections\\RentList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:24:27.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarReview.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\CarReview.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\CarReview.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\CarReview.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\CarReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:24:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\CarModel.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\CarModel.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\CarModel.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:19:31.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICommonController.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Controller\\ICommonController.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Controller\\ICommonController.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Controller\\ICommonController.cs",
+              "RelativeToolTip": "Library\\Networking\\Controller\\ICommonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:22:37.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CommonEntity.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\CommonEntity.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\CommonEntity.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\CommonEntity.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\CommonEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:16:04.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectedClient.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Host\\ConnectedClient.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Host\\ConnectedClient.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Host\\ConnectedClient.cs",
+              "RelativeToolTip": "Library\\Networking\\Host\\ConnectedClient.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv30AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:28:33.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerSender.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Host\\ServerSender.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Host\\ServerSender.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Host\\ServerSender.cs",
+              "RelativeToolTip": "Library\\Networking\\Host\\ServerSender.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAcwJwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:25:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BytePackage.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\NetworkCommonEntities\\Entities\\BytePackage.cs",
+              "RelativeDocumentMoniker": "NetworkCommonEntities\\Entities\\BytePackage.cs",
+              "ToolTip": "F:\\CarRentServer\\NetworkCommonEntities\\Entities\\BytePackage.cs",
+              "RelativeToolTip": "NetworkCommonEntities\\Entities\\BytePackage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:41:23.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\CarRentEntities\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CarRentEntities\\Entities\\Car.cs",
+              "ToolTip": "F:\\CarRentServer\\CarRentEntities\\Entities\\Car.cs",
+              "RelativeToolTip": "CarRentEntities\\Entities\\Car.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:06:34.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarControllerImpl.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Controller\\ControllerImplementation\\CarControllerImpl.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Controller\\ControllerImplementation\\CarControllerImpl.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Controller\\ControllerImplementation\\CarControllerImpl.cs",
+              "RelativeToolTip": "Library\\Networking\\Controller\\ControllerImplementation\\CarControllerImpl.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAIwPYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:44:05.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerHandler.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Host\\ServerHandler.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Host\\ServerHandler.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Host\\ServerHandler.cs",
+              "RelativeToolTip": "Library\\Networking\\Host\\ServerHandler.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAIAzwG4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:19:55.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerComponent.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Networking\\Host\\ServerComponent.cs",
+              "RelativeDocumentMoniker": "Library\\Networking\\Host\\ServerComponent.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Networking\\Host\\ServerComponent.cs",
+              "RelativeToolTip": "Library\\Networking\\Host\\ServerComponent.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:24:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CarRepositoryImpl.cs",
+              "DocumentMoniker": "F:\\CarRentServer\\Library\\Repository\\Implementation\\CarRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Library\\Repository\\Implementation\\CarRepositoryImpl.cs",
+              "ToolTip": "F:\\CarRentServer\\Library\\Repository\\Implementation\\CarRepositoryImpl.cs",
+              "RelativeToolTip": "Library\\Repository\\Implementation\\CarRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:52:18.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
